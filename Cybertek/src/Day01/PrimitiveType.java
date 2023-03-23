@@ -1,4 +1,4 @@
-package src.Day01;
+package Day01;
 
 public class PrimitiveType {
     public static void main(String[] args) {
@@ -18,6 +18,8 @@ public class PrimitiveType {
         double priceOdIpad= 355.99d;
         // or
         double priceOfLaptop= 834.55;
+
+        System.out.println("numbers");
 
 
     }
